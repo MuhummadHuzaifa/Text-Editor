@@ -40,14 +40,14 @@ fonts.addEventListener('click' ,function(){
 
 
 fontf.addEventListener('click' ,function(){
-    input.style.fontFamily = 'cursive'
+    input.style.fontFamily = 'Arial, Helvetica, sans-serif'
     
 })
 
 
 
 textc.addEventListener('click' ,function(){
-    input.style.color = 'green'
+    input.style.color = 'blue'
     
 })
 
